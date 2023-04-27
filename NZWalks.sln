@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NZWalks.API", "NZWalks.API\NZWalks.API.csproj", "{E5FA45A6-89EF-4F69-B1A4-E7D916854FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5FA45A6-89EF-4F69-B1A4-E7D916854FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FA45A6-89EF-4F69-B1A4-E7D916854FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FA45A6-89EF-4F69-B1A4-E7D916854FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FA45A6-89EF-4F69-B1A4-E7D916854FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D6600DC-17A6-4B16-9F8C-3BA4E4CE301B}
+	EndGlobalSection
+EndGlobal
